@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Prachi! 👋
 
-<!--
-**prachijha063-crypto/prachijha063-crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 BCA Final Year Student | Aspiring Remote Web Developer
+I am utilizing my summer vacation to bridge the college theory gap by diving deep into modern full-stack web development and core programming logic.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Skills I'm Building
+* **Languages:** Python, JavaScript, HTML5, CSS3
+* **Tools:** VS Code, Git, GitHub
+* **Focus Areas:** Web Development, Backend Systems, Logic Building & Problem Solving
+
+---
+
+### 📈 Current Summer Goals
+* [ ] Master modern JavaScript fundamentals on freeCodeCamp
+* [ ] Build interactive web applications using Python
+* [ ] Solve daily logic puzzles to strengthen problem-solving skills
+* [ ] Secure a work-from-home web development internship
+
+---
+
+📫 **Let's Connect:** 
+* Check out my repositories below to see my live coding progress!
+
